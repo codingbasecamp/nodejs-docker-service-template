@@ -1,1 +1,2 @@
-# nodejs-docker-service-template
+# NodeJS Service Template
+
